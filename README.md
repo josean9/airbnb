@@ -2,7 +2,7 @@
 Link del repositorio: https://github.com/josean9/airbnb.git
 # Enunciado
 
-#Airbnb Madrid
+# Airbnb Madrid
 
 El objetivo de este trabajo es comprobar si se está utilizando la plataforma Airbnb por parte de empresas, en lugar de particulares, para alquiler turístico en el centro de Madrid.
 
